@@ -64,8 +64,6 @@ public class SwitchTest2 : MonoBehaviour
                     break;
             }
         }
-
-
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             weapon = Weapon.Pistol;
